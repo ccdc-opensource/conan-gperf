@@ -13,5 +13,3 @@ extends:
     package_version: 3.1
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
-    build_types:
-      - Release
